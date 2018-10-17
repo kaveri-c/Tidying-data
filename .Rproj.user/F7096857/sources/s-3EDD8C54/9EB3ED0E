@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539761658512.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1116416354",
+    "id" : "9EB3ED0E",
+    "lastKnownWriteTime" : 1539770301,
+    "last_content_update" : 1539770301707,
+    "path" : "~/Desktop/Coursera-datascience/cleaning data/human activity recognition/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
